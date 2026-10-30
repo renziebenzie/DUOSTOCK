@@ -25,3 +25,4 @@ jobs:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           ZIP: ${{ secrets.ZIP }}
         run: python apple_stock_alert.py --duration 1260
+
