@@ -1,0 +1,17 @@
+{
+  "zip": "10314",
+  "country_path": "",
+  "interval_min": 10,
+  "interval_max": 15,
+  "check_pickup": true,
+  "check_delivery": false,
+  "alert_delivery_date_change": true,
+  "products": [
+    {
+      "name": "iPhone Duo 512GB Night Sky (unlocked)",
+      "part": "MK1H4LL/A",
+      "url": "https://www.apple.com/shop/buy-iphone/iphone-duo/7.6-inch-display-512gb-night-sky-unlocked"
+    }
+  ],
+  "notify": { "desktop": false }
+}
